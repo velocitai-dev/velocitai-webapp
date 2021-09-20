@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/velocitai-webapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/velocitai-webapp/static/js/main.3fc1ba7a.chunk.js",
+    "main.js.map": "/velocitai-webapp/static/js/main.3fc1ba7a.chunk.js.map",
+    "runtime-main.js": "/velocitai-webapp/static/js/runtime-main.cb51aef3.js",
+    "runtime-main.js.map": "/velocitai-webapp/static/js/runtime-main.cb51aef3.js.map",
+    "static/js/2.6838faef.chunk.js": "/velocitai-webapp/static/js/2.6838faef.chunk.js",
+    "static/js/2.6838faef.chunk.js.map": "/velocitai-webapp/static/js/2.6838faef.chunk.js.map",
+    "static/js/3.8b9e6753.chunk.js": "/velocitai-webapp/static/js/3.8b9e6753.chunk.js",
+    "static/js/3.8b9e6753.chunk.js.map": "/velocitai-webapp/static/js/3.8b9e6753.chunk.js.map",
+    "index.html": "/velocitai-webapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/velocitai-webapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6838faef.chunk.js.LICENSE.txt": "/velocitai-webapp/static/js/2.6838faef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/velocitai-webapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb51aef3.js",
+    "static/js/2.6838faef.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3fc1ba7a.chunk.js"
+  ]
+}
