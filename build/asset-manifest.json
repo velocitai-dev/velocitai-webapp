@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/velocitai-webapp/static/css/main.2ba074d0.chunk.css",
+    "main.js": "/velocitai-webapp/static/js/main.8ce91623.chunk.js",
+    "main.js.map": "/velocitai-webapp/static/js/main.8ce91623.chunk.js.map",
+    "runtime-main.js": "/velocitai-webapp/static/js/runtime-main.c032d008.js",
+    "runtime-main.js.map": "/velocitai-webapp/static/js/runtime-main.c032d008.js.map",
+    "static/js/2.17c19e7f.chunk.js": "/velocitai-webapp/static/js/2.17c19e7f.chunk.js",
+    "static/js/2.17c19e7f.chunk.js.map": "/velocitai-webapp/static/js/2.17c19e7f.chunk.js.map",
+    "index.html": "/velocitai-webapp/index.html",
+    "precache-manifest.cda5cdfba0d221b3fe917ec7bdead650.js": "/velocitai-webapp/precache-manifest.cda5cdfba0d221b3fe917ec7bdead650.js",
+    "service-worker.js": "/velocitai-webapp/service-worker.js",
+    "static/css/main.2ba074d0.chunk.css.map": "/velocitai-webapp/static/css/main.2ba074d0.chunk.css.map",
+    "static/js/2.17c19e7f.chunk.js.LICENSE.txt": "/velocitai-webapp/static/js/2.17c19e7f.chunk.js.LICENSE.txt",
+    "static/media/video-1.mp4": "/velocitai-webapp/static/media/video-1.229f5279.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c032d008.js",
+    "static/js/2.17c19e7f.chunk.js",
+    "static/css/main.2ba074d0.chunk.css",
+    "static/js/main.8ce91623.chunk.js"
+  ]
+}
